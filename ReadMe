@@ -1,0 +1,11 @@
+1. Config repository type:   File / Local Git / Remote Git Repository / SVN / JDBC / custom
+2. Timeout, 
+3. SSH
+4. Security
+5. Encryption & decryption
+6. Vault
+7. push notifications
+8. Discovery Client - Eureka discovery
+9. Zoo keeper
+10. Consul
+	
